@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color: rgba(0, 109, 148, 0.7);
+}
+li {
+    font-size: 12px;
+    color: rgb(39, 17, 103);
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+}
+a {color: #0d4d10;
+    font-family:'Times New Roman', Times, serif ;
+    text-decoration:overline;
+    font-size: 17px;
+}
+a:hover {
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size:large; */
+}
+a:visited {
+    color:#af7100;
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline {text-decoration: underline;
+}
+.bold {font-weight: bold;}
+.justify{text-align: justify;}
+
+.homebg{
+    background-image:url('assets/img/HaloBG.jpg');
+    background-position: top right;
+    /* background-repeat: ; */
+}
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;    
+    border-color: grey;
+
+    /* border: 1px solid red; can skip the top three lines by just using the border attribute*/
+}
+       
+.box2 {
+    padding:5px ;
+}
+
+.box3 {
+    margin: 50px;
+}

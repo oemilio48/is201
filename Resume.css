@@ -11,7 +11,7 @@ li {
     font-weight: normal;
     text-decoration: none;
 }
-a {color: #0d4d10;
+a {color: #36ed3e;
     font-family:'Times New Roman', Times, serif ;
     text-decoration:overline;
     font-size: 17px;
@@ -22,7 +22,7 @@ a:hover {
     font-size:large; */
 }
 a:visited {
-    color:#af7100;
+    color:#ffe35f;
 }
 .resumelistheading {
     font-weight: bold;

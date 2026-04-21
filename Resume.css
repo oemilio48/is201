@@ -13,7 +13,7 @@ li {
 }
 a {color: #36ed3e;
     font-family:'Times New Roman', Times, serif ;
-    text-decoration:overline;
+    text-decoration:none;
     font-size: 17px;
 }
 a:hover {
@@ -23,6 +23,7 @@ a:hover {
 }
 a:visited {
     color:#ffe35f;
+    text-decoration: line-through;
 }
 .resumelistheading {
     font-weight: bold;
